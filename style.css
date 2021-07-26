@@ -1,9 +1,12 @@
 body{
-  background-color: teal;
+  background-color: gray;
   color: white;
   font-family: Arial, Helvetica, sans-serif;
-  margin: 10% 10%
-   
+  margin: 10% 10%;
+  border:10px outset teal;
+  outer-border:10px solid black
+    
+  
 }
 
 .exp-header {
@@ -13,14 +16,14 @@ body{
   border-bottom:2px dotted;
 }
 
-.pic
+.kwik
 img {
 
 
 display: block;
 
 
-width: 50%;
+width: 30%;
 
 
 margin-left: auto;
@@ -29,3 +32,38 @@ margin-left: auto;
 margin-right: auto;
 
 }
+
+.pic
+img {
+
+
+display: block;
+
+
+width: 10%;
+
+}
+.awards {
+    float:left;
+    width:300px;
+   margin-left: 10px
+}
+
+.education {
+    float:left; 
+    width:300px; 
+    margin-left: 20px
+    
+}
+.prof {
+    float:left;
+    width:300px;
+   margin-left: 
+}
+.date {
+  flaot:left;
+  margin-left: 800px;
+  
+}
+    
+
