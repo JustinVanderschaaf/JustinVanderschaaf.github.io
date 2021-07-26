@@ -33,6 +33,44 @@ margin-right: auto;
 
 }
 
+.wall
+img {
+
+
+display: block;
+
+
+width: 20%;
+
+
+margin-left: auto;
+
+
+margin-right: auto;
+
+}
+
+.marine
+img {
+
+
+display: block;
+
+
+width: 30%;
+
+
+margin-left: auto;
+
+
+margin-right: auto;
+
+}
+
+
+
+
+
 .pic
 img {
 
